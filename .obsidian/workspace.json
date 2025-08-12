@@ -196,8 +196,8 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
-      "periodic-notes:Open today": false,
-      "quartz-syncer:Quartz Syncer publication center": false
+      "quartz-syncer:Quartz Syncer publication center": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "1e8a57609f0af1f7",
