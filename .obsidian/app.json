@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "2-✍️ 문헌 노트",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "assets",
+  "readableLineLength": false
+}

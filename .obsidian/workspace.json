@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "18973ff4ba784fc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ed6df7a038504f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e07725de5d2ebfdd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6d2b9fde0a26fc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8c3b8607fb088b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f340a1ea79dcea5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "51c86f571a8bb8fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "b5202a3cf9cecfd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5041847229004
+  },
+  "right": {
+    "id": "c817f869f1959c5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "346c4314bbb12a4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de0ea36a4166b7e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "3be95e34763488a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "052590b477fa7510",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "fa3367c96a29c561",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "bf5e10b3e87c321c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "6800759478ac5de1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "5b40e44fb622a874",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "templates:템플릿 삽입": true,
+      "command-palette:명령어 팔레트 열기": true,
+      "markdown-importer:마크다운 형식 불러오기 열기": true,
+      "random-note:무작위 노트 열기": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
+      "periodic-notes:Open today": false,
+      "quartz-syncer:Quartz Syncer publication center": false
+    }
+  },
+  "active": "f340a1ea79dcea5c",
+  "lastOpenFiles": [
+    "5-💎 영구 노트/참고 노트.md",
+    "5-💎 영구 노트/임시 노트.md",
+    "5-💎 영구 노트/옵시디언 셋팅.md",
+    "5-💎 영구 노트/영구 노트.md",
+    "index.md",
+    "5-💎 영구 노트/문헌 노트.md",
+    "_templates/weekly.md",
+    "_templates/Tags.md",
+    "_templates/Index.md",
+    "_templates/AI Res.md",
+    "readme.md",
+    "3-🏷️ 태그/지식관리.md",
+    "_templates/Main Note.md",
+    "_templates/daily.md",
+    "3-🏷️ 태그/AI.md",
+    "4-📋 색인/프로그래밍.md",
+    "5-💎 영구 노트/RAG.md",
+    "1-📚 참고 노트/ai 답변/RAG 완벽 핸드북 자율형 AI 시대를 여는 핵심 기술.md",
+    "_templates/Res Note.md",
+    "_templates/Tag.md",
+    "2-✍️ 문헌 노트/데일리노트/2025-08-12.md",
+    "1-📚 참고 노트/ai 답변/[필독] LLM 핸드북 AI 시대의 필수 교양, 거대 언어 모델의 모든 것.md",
+    "1-📚 참고 노트/ai 답변/AI 조종술, 프롬프트 엔지니어링 완벽 핸드북 (탄생부터 실전까지).md",
+    "2-✍️ 문헌 노트/프롬프트 엔지니어링.md",
+    "2-✍️ 문헌 노트/harvardfellowslamszuckerbergsaysmetaceospoo.md",
+    "1-📚 참고 노트/ai 답변/LLM 핸드북 인공지능의 새로운 시대, 거대 언어 모델의 모든 것.md",
+    "1-📚 참고 노트/ai 답변/무제",
+    "assets/Pasted image 20250811035237.png",
+    "assets/Pasted image 20250811035027.png",
+    "assets/Pasted image 20250811035009.png",
+    "assets/Pasted image 20250811033759.png",
+    "assets/Pasted image 20250811031216.png",
+    "assets/2024개정판_SQLD_개념정리.pdf",
+    "code/sql/history.log",
+    "code/sql/test.sql",
+    "code/sql/setup.sql",
+    "assets/Untitled.png",
+    "code/sql/my_database.db",
+    "my_database.db",
+    "-p",
+    "code/sql/mydatabase.db",
+    "code/sql",
+    "assets/Pasted image 20250809164058.png",
+    "assets/Pasted image 20250805042238.png",
+    "assets/Pasted image 20250805035722.png",
+    "assets/xxlarge.webp",
+    "무제.canvas"
+  ]
+}

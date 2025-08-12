@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "_templates/daily.md",
+    "folder": "2-✍️ 문헌 노트/데일리노트",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "_templates/weekly.md",
+    "folder": "2-✍️ 문헌 노트/주간노트",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

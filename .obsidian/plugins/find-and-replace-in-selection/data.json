@@ -1,0 +1,6 @@
+{
+  "findText": "status: todo",
+  "findRegexp": "status: todo",
+  "regexpFlags": "",
+  "replace": ""
+}

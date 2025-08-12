@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"3-🏷️ 태그\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"2-✍️ 문헌 노트\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"5-💎 영구 노트\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5402336
+      }
+    },
+    {
+      "query": "path:\"1-📚 참고 노트\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"4-📋 색인\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14718802
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.21882344562353,
+  "lineSizeMultiplier": 1.17450324050994,
+  "collapse-forces": false,
+  "centerStrength": 0.512447729261889,
+  "repelStrength": 11.0580569872605,
+  "linkStrength": 1,
+  "linkDistance": 220,
+  "scale": 0.7045921297415956,
+  "close": true
+}

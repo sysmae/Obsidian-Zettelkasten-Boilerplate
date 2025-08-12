@@ -1,0 +1,12 @@
+/* 하이라이트 완전 숨기기 */
+mark,
+.cm-highlight {
+  background-color: transparent !important;
+}
+/* 또는 색상 변경 */
+/* 원하는 색상으로 바꾸려면 아래처럼 수정 */
+/*
+mark, .cm-highlight {
+  background-color: #ffffff !important;  // 흰색
+}
+*/
