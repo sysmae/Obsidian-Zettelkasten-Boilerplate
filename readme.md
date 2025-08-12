@@ -1,7 +1,7 @@
 # 🗂 Obsidian Zettelkasten Boilerplate
 
 > **개인 지식 관리 시스템(PKM)**을 위해 설계된 **Obsidian Vault** 템플릿입니다.  
-> **Zettelkasten 방법론**을 기반으로, 프로그래밍·알고리즘·소프트웨어 공학 등 다양한 지식을 체계적으로 기록·연결·배포할 수 있습니다.
+> **Zettelkasten 방법론**을 기반으로, 다양한 지식을 체계적으로 기록·연결·배포할 수 있습니다.
 
 ---
 
