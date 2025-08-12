@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ed6df7a038504f9",
+        "id": "04703f04c771108e",
         "type": "tabs",
         "children": [
           {
-            "id": "e07725de5d2ebfdd",
+            "id": "1e8a57609f0af1f7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,11 +188,11 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
       "templates:템플릿 삽입": true,
       "command-palette:명령어 팔레트 열기": true,
       "markdown-importer:마크다운 형식 불러오기 열기": true,
       "random-note:무작위 노트 열기": true,
+      "graph:그래프 뷰 열기": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
@@ -200,9 +200,17 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "f340a1ea79dcea5c",
+  "active": "1e8a57609f0af1f7",
   "lastOpenFiles": [
+    "1-📚 참고 노트/ai 답변/지식의 거인을 만드는 생각의 보물창고 제텔카스텐 핸드북.md",
+    "assets/Pasted image 20250813005340.png",
+    "readme.md",
     "assets/temp.md",
+    "4-📋 색인/자기계발.md",
+    "1-📚 참고 노트/ai 답변/무제",
+    "3-🏷️ 태그/지식관리.md",
+    "2-✍️ 문헌 노트/데일리노트/2025-08-13.md",
+    "2-✍️ 문헌 노트/주간노트/2025-W33.md",
     "4-📋 색인/temp.md",
     "2-✍️ 문헌 노트/주간노트/temp.md",
     "2-✍️ 문헌 노트/데일리노트/temp.md",
@@ -219,17 +227,9 @@
     "_templates/Tags.md",
     "_templates/Index.md",
     "_templates/AI Res.md",
-    "readme.md",
-    "3-🏷️ 태그/지식관리.md",
     "_templates/Main Note.md",
     "_templates/daily.md",
     "3-🏷️ 태그/AI.md",
-    "4-📋 색인/프로그래밍.md",
-    "5-💎 영구 노트/RAG.md",
-    "1-📚 참고 노트/ai 답변/RAG 완벽 핸드북 자율형 AI 시대를 여는 핵심 기술.md",
-    "_templates/Res Note.md",
-    "_templates/Tag.md",
-    "1-📚 참고 노트/ai 답변/무제",
     "assets/Pasted image 20250811035237.png",
     "assets/Pasted image 20250811035027.png",
     "assets/Pasted image 20250811035009.png",
@@ -247,7 +247,6 @@
     "assets/Pasted image 20250809164058.png",
     "assets/Pasted image 20250805042238.png",
     "assets/Pasted image 20250805035722.png",
-    "assets/xxlarge.webp",
     "무제.canvas"
   ]
 }
