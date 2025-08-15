@@ -73,7 +73,7 @@ TABLE WITHOUT ID
 choice(file.mtime = file.ctime, "📝 새 노트", "✅ 작성됨") as "📊 상태",
 file.mtime as "🕐 수정일시",
 "약 " + round(file.size / 3, 0) + "자" as "📝 글자수"
-FROM "2 - ✍️ 문헌 노트/데일리노트"
+FROM "2-✍️ 문헌 노트/데일리노트"
 WHERE file.name >= "${startDate}" AND file.name <= "${endDate}"
 AND file.name != this.file.name
 SORT file.name ASC
